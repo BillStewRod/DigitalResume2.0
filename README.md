@@ -3,7 +3,8 @@
  Find his:
 - repository here: https://github.com/divanov11/Digital-Resume
 - YouTube video here: https://youtu.be/clwpf3VwCZQ
-and [@Sven-Bo](https://github.com/Sven-Bo)
+
+[@Sven-Bo](https://github.com/Sven-Bo)
 Find his:
 - Repository here: https://github.com/Sven-Bo/digital-resume-template-streamlit
 - YouTube video here: https://www.youtube.com/watch?v=BXAeMICmUSQ&t=77s&ab_channel=CodingIsFun
