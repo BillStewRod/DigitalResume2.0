@@ -1,7 +1,12 @@
-💡 **The website design is inspired by [@divanov11](https://github.com/divanov11)** 💡 <br>
-Find his:
+💡 **The website design is inspired by:** 💡 <br>
+[@divanov11](https://github.com/divanov11)
+ Find his:
 - repository here: https://github.com/divanov11/Digital-Resume
 - YouTube video here: https://youtu.be/clwpf3VwCZQ
+and [@Sven-Bo](https://github.com/Sven-Bo)
+Find his:
+- Repository here: https://github.com/Sven-Bo/digital-resume-template-streamlit
+- YouTube video here: https://www.youtube.com/watch?v=BXAeMICmUSQ&t=77s&ab_channel=CodingIsFun
 
 ## Live Demo
 👉 ****
@@ -24,7 +29,6 @@ streamlit run app.py
 ```
 
 ## Get to Know Me & Stay Connected
-- 💬 **Discord:** [Join my Journey](https://pythonandvba.com/discord)
 - 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/billiamstewartrodriguez)
 - 📸 **Instagram:** [Follow me](https://instagram.com/djcalanco)
 
