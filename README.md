@@ -13,7 +13,11 @@ Find his:
 👉 ****
 
 ## Screenshots
-![Demo](./assets/Screenshot.png?raw=true "Demo")
+![Demo1](./assets/Screenshot.png?raw=true "Demo1")
+![Demo2](./assets/Screenshot1.png?raw=true "Demo2")
+![Demo3](./assets/Screenshot2.png?raw=true "Demo3")
+![Demo4](./assets/Screenshot3.png?raw=true "Demo4")
+![Demo5](./assets/Screenshot4.png?raw=true "Demo5")
 
 ## Requirements
 Install the dependencies with pip
