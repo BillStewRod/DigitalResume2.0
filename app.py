@@ -58,7 +58,6 @@ with col2:
         mime="application/octet-stream",
     )
     st.write(EMAIL)
-    st.write("(425) 308-0637")
 
 
 # --- SOCIAL LINKS ---
