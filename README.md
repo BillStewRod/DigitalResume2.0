@@ -33,7 +33,7 @@ Terminal
 streamlit run app.py
 ```
 ## Heroku App Deployment ##
-Heroku is a cloud platform that lets companies build, deliver, monitor and scale apps — we're the fastest way to go from idea to URL, bypassing all those infrastructure headaches.
+"Heroku is a cloud platform that lets companies build, deliver, monitor and scale apps — we're the fastest way to go from idea to URL, bypassing all those infrastructure headaches."
 
 Install the Heroku CLI
 Download and install the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-command-line)
