@@ -47,13 +47,13 @@ Clone the repository
 Use Git to clone REPOSITORY_NAME's source code to your local machine.
 ```
 heroku git:clone -a REPOSITORY_NAME 
-cd billyresume
+cd REPOSITORY_NAME 
 ```
 Deploy your changes
 Make some changes to the code you just cloned and deploy them to Heroku using Git.
 ```
 git add .
-git commit -am "DESCRIPTION"
+git commit -m "DESCRIPTION"
 git push heroku master
 ```
 Once deployed web app is deployed to servers (Dynos) if you want to keep it free add the following line
