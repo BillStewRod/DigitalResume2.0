@@ -10,7 +10,7 @@ Find his:
 - YouTube video here: https://www.youtube.com/watch?v=BXAeMICmUSQ&t=77s&ab_channel=CodingIsFun
 
 ## Live Demo
-👉 ****https://billyresume-00129d30221d.herokuapp.com/****
+👉 ****[Digital Resume Python App](https://billstewrodresume-ca9a5a02c80b.herokuapp.com)****
 
 ## Screenshots
 ![Demo1](./assets/Screenshot.png?raw=true "Demo1")
